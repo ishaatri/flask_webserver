@@ -1,4 +1,4 @@
-name: Docker Image flask_webserver
+name: Docker Images flask_webserver
  
 on:
   push:
